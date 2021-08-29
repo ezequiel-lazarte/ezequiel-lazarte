@@ -6,8 +6,10 @@
            Me destaco por estar en constante aprendizaje, tanto de manera tecnica como en mis habilidades blandas.
            
                                             Lenguajes y Tecnologias:
-bootstrap css3 firebase git html5 javascript mongodb nodejs react c++
-
+                                • HTML5, CSS3, Bootstrap, Javascript, Typescript,
+                                  ReactJs, NodeJs, Firebase, MongoDB, Git/Github,
+                                  C++, STL, SFML, UML.
+                                  
                                  Actualmente me encuentro aprendiendo día a día:
                                     • Stack MERN, Pila completa de Javascript.
                                     • PHP con Symfony o Laravel.
