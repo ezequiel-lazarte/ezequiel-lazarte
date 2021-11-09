@@ -6,17 +6,17 @@
          al maximo mis habilidades blandas y tecnicas, mi aspiracion es ser fullstack.
          Me destaco por estar en constante aprendizaje, ser muy proactivo y estar dispuesto a aprender cosas nuevas.
          Utilizo C++ y la STL(Standard Template Library) para el desarrollo de aplicaciones de escritorio.
-         Tengo conocimientos en el marco de trabajo SCRUM, el Lenguaje unificado de modelado y la Ingenieria de software en general.
+         Tengo conocimientos en el marco de trabajo SCRUM, el Lenguaje unificado de modelado y en Ingenieria de software.
 
                                     Lenguajes y Tecnologias:
-                                    • HTML5, CSS3, Bootstrap, Javascript, Typescript,
-                                      ReactJs, NodeJs, Firebase, MongoDB, Git/Github,
-                                      C++, STL, SFML, UML.
+                                    • HTML5, CSS3, Bootstrap, Talwind, Javascript, Typescript,
+                                      ReactJs, NodeJs, express, ApiRest, Firebase, MongoDB, 
+                                      Git/Github, C++, STL, SFML, UML.
                                   
                                     Actualmente me encuentro aprendiendo día a día:
                                     • Stack MERN, Pila completa de Javascript.
-                                    • PHP con Symfony o Laravel.
-                                    • Algoritmo y Estructura de Datos.
+                                    • NodeJs con express.
+                                    • Algoritmo y Estructura de Datos en C++.
 
                                                  Contacto:
                             Linkedin: https://www.linkedin.com/in/ezequiel-lazarte/
