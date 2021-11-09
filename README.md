@@ -21,6 +21,7 @@
                                                  Contacto:
                             Linkedin: https://www.linkedin.com/in/ezequiel-lazarte/
                             Correo : ezequiellazarterodrigo@gmail.com
+                            Telefono: +54 0342 4274240
 
 
                                         Le envio un cordial saludo.
