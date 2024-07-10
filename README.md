@@ -23,7 +23,7 @@ Hola desde 🇦🇷 Argentina, Yo soy Ezequiel Lazarte.
                                     • Librerias y bibliotecas de Python (orientado a aplicaciones de escritorio).
                                     
 
- Contacto:
-       Linkedin: https://www.linkedin.com/in/ezequiel-lazarte/
-       Correo : ezequiellazarterodrigo@gmail.com
-       Telefono: +54 0342 4274240
+          Contacto:
+                Linkedin: https://www.linkedin.com/in/ezequiel-lazarte/
+                Correo : ezequiellazarterodrigo@gmail.com
+                Telefono: +54 0342 4274240
