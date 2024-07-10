@@ -2,11 +2,12 @@ Hola desde 🇦🇷 Argentina, Yo soy Ezequiel Lazarte.
 
          Soy estudiante de la carrera Ingenieria en Informatica en la Universidad Nacional del Litoral.
          
-         Mi especialidad es el desarrollo web frontend y backend, como profesional mi objetivo es crecer y desarrollar 
-         al maximo mis habilidades blandas y tecnicas.
+         Mi especialidad es el desarrollo web frontend y backend, como profesional mi objetivo es crecer y 
+         desarrollar al maximo mis habilidades blandas y tecnicas.
 
          Me destaco por estar en constante aprendizaje, ser muy proactivo y estar dispuesto a aprender cosas nuevas.
-         Utilizo HTML, CSS (Bootstrap) y ReactJS en el frontend y para el backend Java y Spring Boot, estos son mis lenguajes principales.
+         Utilizo HTML, CSS (Bootstrap) y ReactJS en el frontend y para el backend Java y Spring Boot, estos son mis 
+         lenguajes principales.
          
                                     Lenguajes y Tecnologias:
 
